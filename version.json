@@ -1,5 +1,6 @@
 {
   "version": "1.0.1",
-  "downloadUrl": "https://discord.gg/GQyRYjMg3W",
-  "message": "Önemli güncelleme! Sunucu IP adresi ve modlar güncellendi. Lütfen Discord üzerinden yeni sürümü indir."
+  "message": "DuckCraft Launcher Başarıyla Güncellendi!",
+  "asarUrl": "https://raw.githubusercontent.com/akifebad-oss/duck/main/app.asar",
+  "downloadUrl": "https://duckcraft.com.tr/"
 }
